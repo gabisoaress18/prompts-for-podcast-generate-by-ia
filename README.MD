@@ -49,21 +49,17 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
     <p>Gabriela Soares<br>
-    &nbsp&nbsp&nbsp
+    
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/gabisoaress18">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/gabriela-dos-santos-soares-860447120/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
