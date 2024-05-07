@@ -48,8 +48,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <p>Gabriela Soares<br>
-    
+    <p>&nbsp&nbsp&nbspGabriela Soares<br>
+    &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/gabisoaress18">
         GitHub
@@ -59,12 +59,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/gabriela-dos-santos-soares-860447120/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
